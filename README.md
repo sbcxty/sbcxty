@@ -23,10 +23,7 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
-
+<hr style="border: none; height: 6px; background: #30363d; border-radius: 4px; margin: 20px 0;">
 
 ###
 
@@ -38,9 +35,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
+<hr style="border: none; height: 6px; background: #30363d; border-radius: 4px; margin: 20px 0;">
+
 
 ###
 
@@ -74,10 +70,3 @@
   <img height="200" src="https://i.pinimg.com/originals/a3/d6/97/a3d69709008b07c99616d5c78df28bd7.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sbcxty.sbcxty&left_color=brown&right_color=lightpink"  />
-</div>
-
-###
