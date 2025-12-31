@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Computer Science student 🍂 | Front-end Developer 💌</p>
+<p align="center">Computer Science student 🍂 | Front-end Developer 💌 | Researcher 📄 | Robotics Hobbyist 🤖</p>
 
 ###
 
@@ -31,7 +31,13 @@
 
 ###
 
-<p align="left">- 🏫 Computer Science student at Ateneo de Davao University <br>- 🌱 Front-end dev in progress <br>- 📚 Currently improving my design and React skills</p>
+<p align="left">
+  - 🏫 Computer Science student at Ateneo de Davao University <br>
+  - 🌱 Front-end dev in progress <br>
+  - 📚 Currently improving my design and React skills
+  - 🤖 Started programming with C++ for Robotics
+  - 💡 Working on a passion project: assistive technology for people with ADHD
+</p>
 
 ###
 
