@@ -5,8 +5,8 @@
 ###
 
 <h1 align="center">Hi, I'm Shekainah 🌼</h1>
-***
-<p>Computer Science student 🍂 | Front-end Developer 💌 </p>
+
+<p align="center">Computer Science student 🍂 | Front-end Developer 💌 </p>
 
 ###
 
